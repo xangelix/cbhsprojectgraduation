@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cbhspg.cody.fun/</loc>
+    <lastmod>2019-06-12T16:59:54+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/portfolio/</loc>
+    <lastmod>2019-06-12T16:59:54+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/portfolio/elks/</loc>
+    <lastmod>2019-06-12T16:59:54+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cbhspg.cody.fun/events/</loc>
     <lastmod>2018-07-15T12:32:37+06:00</lastmod>
   </url>
@@ -10,12 +27,6 @@
   <url>
     <loc>https://cbhspg.cody.fun/events/a-new-year-a-new-posibility/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -91,12 +102,6 @@
   </url>
   
   <url>
-    <loc>https://cbhspg.cody.fun/portfolio/</loc>
-    <lastmod>2018-07-12T16:58:55+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://cbhspg.cody.fun/portfolio/shopping-bag-concept/</loc>
     <lastmod>2018-07-12T16:58:55+06:00</lastmod>
   </url>
@@ -107,7 +112,7 @@
   </url>
   
   <url>
-    <loc>https://cbhspg.cody.fun/portfolio/table-design/</loc>
+    <loc>https://cbhspg.cody.fun/portfolio/table-design-m/</loc>
     <lastmod>2018-07-12T16:56:54+06:00</lastmod>
   </url>
   

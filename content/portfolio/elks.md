@@ -1,12 +1,12 @@
 ---
 title: "The Cocoa Beach Elks Lodge"
 type: portfolio
-date: 2019-07-12T16:59:54+06:00
-description : ""
+date: 2019-06-12T16:59:54+06:00
+description : "Test"
 caption: Thank you!
 image: images/portfolio/item-6.jpg
-category: ["product","mockup","design"]
-liveLink: 
+category: ["sponsor","new",]
+liveLink: https://www.elks.org/lodges/home.cfm?lodge=2387
 client: Julia Robertson
 submitDate: November 20, 2017
 location: 1201 park street, Avenue, Dhaka
