@@ -1,4 +1,4 @@
-baseURL = "https://www.cbhsprojectgraduation.com"
+baseURL = "https://cbhspg.cody.fun/"
 languageCode = "en-us"
 title = "CBHS Project Graduation"
 theme = "timer-hugo"
