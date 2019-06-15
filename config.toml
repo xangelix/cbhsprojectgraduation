@@ -1,0 +1,80 @@
+baseURL = "https://www.cbhsprojectgraduation.com"
+languageCode = "en-us"
+title = "CBHS Project Graduation"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Senior Info"
+        url     = "senior-info"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Flamingo Flocking"
+        url     = "flamingo-flocking"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Lucky Leprechaun"
+        url     = "lucky-leprechaun"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Fundraising"
+        url     = "fundraising"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Events"
+        url     = "events"
+        weight  = 6
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "CBHS Project Graduation"
+    author = "The CBHS Project Graduation Team"
+    # Google Analitycs
+    googleAnalitycsID = ""
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "CBHS Project Graduation"
+        description = "PROJECT GRADUATION HAS A SIMPLE GOAL. WE WANT TO KEEP OUR SENIORS SAFE."
+        btn     = true
+        btnText = "CONTRIBUTE"
+        btnURL  = "#feature"
+        [[params.banner.flipText]]
+            title   = "NON-PROFIT"
+        [[params.banner.flipText]]
+            title   = "FUNDRAISING"
+        [[params.banner.flipText]]
+            title   = "PRIZES"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT US"
+        content = "Project Graduation has a simple goal. We want to keep our seniors safe and oﬀ the roads on Graduation Night thereby keeping our whole community safe. We do this by offering them an alternative celebration they will remember for years to come.  The celebration includes entertainment, prizes and refreshments for 170 local graduation Seniors. This event is funded solely through fundraisers throughout the year, as well as, generous private donations from our local businesses, community groups and graduate families. Project Graduation is a non-proﬁt 501(C)(3) tax exempt organization and is 100% donation and volunteer based. Please help us give our 2019 Cocoa Beach Graduates a fun and safe graduation night celebration. Donations may be mailed to the address below. Or we would be happy to arrange to pick up donations."
+        image   = "images/about/about.png"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "QUESTIONS?"
+        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        btnText = "Contact"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Proudly Sponsored By"
+        subtitle= ""
+
+    
