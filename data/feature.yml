@@ -3,32 +3,32 @@ title   : CONTRIBUTE
 subtitle: >
   Below are ways in which you can contribute to CBHS Project Graduation.
 item    :
-  - icon  : ion-ios-flask-outline
-    title : Media heading
+  - icon  : ion-ios-lightbulb-outline
+    title : Item A
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Item B
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+  - icon  : ion-ios-lightbulb-outline
+    title : Item C
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : ion-ios-keypad-outline
-    title : Solid Support
+  - icon  : ion-ios-lightbulb-outline
+    title : Item D
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : ion-ios-barcode-outline
-    title : Simple Installation
+  - icon  : ion-ios-lightbulb-outline
+    title : Item E
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
   
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Item F
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
