@@ -32,7 +32,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Home"
-    logo = "images/logo.png"
+    logo = "images/logo.webp"
     dateFormat = "6 January 2006"
     # Meta data
     description = "CBHS Project Graduation"
@@ -43,7 +43,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/slider.jpg"
+        bgImage = "images/slider.webp"
         heading = "CBHS Project Graduation"
         description = "PROJECT GRADUATION HAS A SIMPLE GOAL. WE WANT TO KEEP OUR SENIORS SAFE."
         btn     = true
@@ -61,7 +61,7 @@ theme = "timer-hugo"
         enable  = true
         title   = "ABOUT US"
         content = "Project Graduation has a simple goal. We want to keep our seniors safe and oﬀ the roads on Graduation Night thereby keeping our whole community safe. We do this by offering them an alternative celebration they will remember for years to come.  The celebration includes entertainment, prizes and refreshments for 170 local graduation Seniors. This event is funded solely through fundraisers throughout the year, as well as, generous private donations from our local businesses, community groups and graduate families. Project Graduation is a non-proﬁt 501(C)(3) tax exempt organization and is 100% donation and volunteer based. Please help us give our 2019 Cocoa Beach Graduates a fun and safe graduation night celebration. Donations may be mailed to the address below. Or we would be happy to arrange to pick up donations."
-        image   = "images/about/about.png"
+        image   = "images/about/about.webp"
 
     # Call to Action
     [params.cta]
