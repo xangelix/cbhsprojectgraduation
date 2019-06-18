@@ -13,20 +13,20 @@ theme = "timer-hugo"
         url     = "senior-info"
         weight  = 2
     [[menu.nav]]
-        name    = "Flamingo Flocking"
-        url     = "flamingo-flocking"
-        weight  = 3
-    [[menu.nav]]
-        name    = "Lucky Leprechaun"
-        url     = "lucky-leprechaun"
-        weight  = 4
-    [[menu.nav]]
         name    = "Fundraising"
         url     = "fundraising"
-        weight  = 5
+        weight  = 3
+    [[menu.nav]]
+        name    = "Lucky Leprechaun 5K"
+        url     = "ll5k"
+        weight  = 4
     [[menu.nav]]
         name    = "Events"
         url     = "events"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "contact"
         weight  = 6
 
 # Site Params
