@@ -6,29 +6,14 @@ item    :
   - icon  : ion-ios-lightbulb-outline
     title : Item A
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Placeholder
 
   - icon  : ion-ios-lightbulb-outline
     title : Item B
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Placeholder
 
   - icon  : ion-ios-lightbulb-outline
     title : Item C
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-lightbulb-outline
-    title : Item D
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-lightbulb-outline
-    title : Item E
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-  
-  - icon  : ion-ios-lightbulb-outline
-    title : Item F
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Placeholder
