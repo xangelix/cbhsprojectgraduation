@@ -67,7 +67,7 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "QUESTIONS?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        content = "Contact us below."
         btnText = "Contact"
         btnURL  = "/contact"
 
