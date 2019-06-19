@@ -3,8 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cbhspg.cody.fun/fundraising/bingo-sponsorship/</loc>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cbhspg.cody.fun/</loc>
-    <lastmod>2019-06-12T16:59:54+06:00</lastmod>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/fundraising/cbhs-yard-sign-i/</loc>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/events/meeting-3/</loc>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/tags/</loc>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/tags/fundraising/</loc>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/tags/inspiration/</loc>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/tags/motivation/</loc>
+    <lastmod>2019-08-06T18:30:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,68 +64,6 @@
   </url>
   
   <url>
-    <loc>https://cbhspg.cody.fun/events/a-new-year-a-new-posibility/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/tags/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/tags/inspiration/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/tags/motivation/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/events/building-an-online-audience/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/tags/internet/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/tags/tech/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/events/space-shouldnt-be-the-final-frontier/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/tags/business/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/tags/people/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cbhspg.cody.fun/lucky-leprechaun/</loc>
-    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cbhspg.cody.fun/contact/</loc>
     <lastmod>2018-07-14T16:19:08+06:00</lastmod>
   </url>
@@ -97,11 +74,6 @@
   </url>
   
   <url>
-    <loc>https://cbhspg.cody.fun/flamingo-flocking/</loc>
-    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cbhspg.cody.fun/senior-info/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
@@ -109,6 +81,14 @@
   <url>
     <loc>https://cbhspg.cody.fun/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/fundraising/flamingo-flocking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cbhspg.cody.fun/ll5k/</loc>
   </url>
   
 </urlset>
