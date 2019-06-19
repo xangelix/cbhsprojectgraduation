@@ -5,7 +5,7 @@ description : "Our third meeting of the school year."
 type: post
 image: images/cbhs-yard-sign.webp
 author: Admin
-tags: ["motivation", "inspiration"]
+tags: ["fundraising"]
 ---
 
 > Proud of your Cocoa Beach Senior? Let them know, order a yard sign!!!
