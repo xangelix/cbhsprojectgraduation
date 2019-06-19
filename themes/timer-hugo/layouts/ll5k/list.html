@@ -6,21 +6,9 @@
 
 <section id="gallery" class="gallery">
     <div class="container">
-            <p>
-                A Cocoa Beach road race for runners and walkers through residential Cocoa Isles.<br />
-                Youth runs of 1/4, 1/2, and 1 mile starting at 9am.<br /><br />
-
-                Start your St. Patrick's Day celebrations with a competitive, yet festive family-friendly event!<br /><br />
-
-                LOCATION<br />
-                80 Woodland Avenue<br />
-                Cocoa Beach, FL 32931<br /><br />
-
-                DAY OF EVENT SCHEDULE<br />
-                6:30 am – Registration Opens<br />
-                8:00 am – Race Start<br />
-                9:15 am - Awards<br /><br />
-            </p>
+            {{ range .Data.Pages }}
+            {{ .Content }}
+            {{ end }}
         <div class="row">
             {{ range $index, $element := .Site.Data.gallery.galleryImages }}
             <div class="col-md-4 col-sm-6">
