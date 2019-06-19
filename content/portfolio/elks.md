@@ -4,7 +4,7 @@ type: portfolio
 date: 2019-06-12T16:59:54+06:00
 description : "Test"
 caption: Thank you!
-image: images/portfolio/elks.jpg
+image: images/ll5k/sp4.webp
 category: ["sponsor","new",]
 liveLink: https://www.elks.org/lodges/home.cfm?lodge=2387
 client: The Cocoa Beach Elks Lodge
