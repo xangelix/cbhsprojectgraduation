@@ -1,6 +1,6 @@
 ---
 title: "Flamingo Flocking"
-date: 2020-03-07T08:80:00-05:00
+date: 2019-08-06T18:30:00-05:00
 description : "Flamingo Flocking"
 type: post
 image: images/ff.png
