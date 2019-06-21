@@ -525,7 +525,7 @@ figure:hover .overlay .buttons a {
 
 figure .overlay {
   position: absolute;
-  top: -60px;
+  top: -3hv;
   left: 0;
   right: 0;
   bottom: 0;
