@@ -36,7 +36,7 @@ theme = "timer-hugo"
     dateFormat = "6 January 2006"
     # Meta data
     description = "CBHS Project Graduation"
-    author = "The CBHS Project Graduation Team"
+    author = "CBHS Project Graduation"
     # Google Analitycs
     googleAnalitycsID = ""
 
