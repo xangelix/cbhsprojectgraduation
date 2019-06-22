@@ -16,20 +16,20 @@
     <link rel="icon" href="{{ "images/favicon.ico" | absURL }}">
 
     {{ "<!-- Twitter Bootstrs CSS -->" | safeHTML }}
-    <link rel="stylesheet" href="{{ "plugins/bootstrap/bootstrap.min.css" | absURL }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
     {{ "<!-- Ionicons Fonts -->" | safeHTML }}
     <script type="module" src="https://unpkg.com/ionicons@4.5.9-1/dist/ionicons/ionicons.esm.js"></script>
 	<script nomodule="" src="https://unpkg.com/ionicons@4.5.9-1/dist/ionicons/ionicons.js"></script>
     {{ "<!-- animate css -->" | safeHTML }}
-    <link rel="stylesheet" href="{{ "plugins/animate-css/animate.css" | absURL }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" crossorigin="anonymous">
     {{ "<!-- Hero area slider css-->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/slider/slider.css" | absURL }}">
     {{ "<!-- slick slider -->" | safeHTML }}
-    <link rel="stylesheet" href="{{ "plugins/slick/slick.css" | absURL }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
     {{ "<!-- Fancybox -->" | safeHTML }}
-    <link rel="stylesheet" href="{{ "plugins/facncybox/jquery.fancybox.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "plugins/fancybox/jquery.fancybox.css" | absURL }}">
     {{ "<!-- hover -->" | safeHTML }}
-    <link rel="stylesheet" href="{{ "plugins/hover/hover-min.css" | absURL }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css">
     {{ "<!-- template main css file -->" | safeHTML }}
     {{ $styles := resources.Get "css/style.css" | minify}}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
