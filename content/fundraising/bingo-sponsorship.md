@@ -3,7 +3,7 @@ title: "Bingo Sponsorship"
 date: 2019-08-06T18:30:00-05:00
 description : "The Bingo Sponsorship"
 type: post
-image: images/bingo.png
+image: images/bingo.webp
 author: Admin
 tags: ["fundraising"]
 ---
