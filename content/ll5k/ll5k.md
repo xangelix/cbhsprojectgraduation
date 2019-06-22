@@ -24,3 +24,5 @@ Cocoa Beach, FL 32931
 8:00 am – Race Start
 
 9:15 am - Awards
+
+## SPONSORS
