@@ -5,8 +5,10 @@ subtitle: >
 item    :
   - icon  : wallet
     title : Donate
+    url : https://smile.amazon.com/ch/83-2212176
+    link: Amazon Smile
     description : >
-      Donate by the PayPal Giving Fund or Amazon Smile!
+      Donate using the following links:
 
   - icon  : paper
     title : Fundraisers
