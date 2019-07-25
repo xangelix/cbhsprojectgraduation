@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on CBHS Project Graduation</title>
-    <link>https://cbhspg.cody.fun/events/</link>
+    <link>https://cbhspg.org/events/</link>
     <description>Recent content in Events on CBHS Project Graduation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jul 2018 12:32:37 +0600</lastBuildDate>
     
-	<atom:link href="https://cbhspg.cody.fun/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cbhspg.org/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meeting #3</title>
-      <link>https://cbhspg.cody.fun/events/meeting-3/</link>
+      <link>https://cbhspg.org/events/meeting-3/</link>
       <pubDate>Tue, 06 Aug 2019 18:30:00 -0500</pubDate>
       
-      <guid>https://cbhspg.cody.fun/events/meeting-3/</guid>
+      <guid>https://cbhspg.org/events/meeting-3/</guid>
       <description> The next meeting will be about&amp;hellip;
   Ipsum dolor sit amet. Lorem sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor amet.  </description>
     </item>
