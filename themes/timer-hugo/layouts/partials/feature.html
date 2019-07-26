@@ -19,6 +19,7 @@
                     <div class="media-body">
                         {{ with .title }}<h4 class="media-heading">{{ . }}</h4>{{ end }}
                         {{ with .description }}<p>{{ . }}</p>{{ end }}
+                        {{ with .url }}<a href="{{ . }}">{{ end }}{{ with .link }}{{ . }}{{ end }}</a>
                     </div>
                 </div>
             </div>
