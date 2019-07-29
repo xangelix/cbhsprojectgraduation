@@ -1,0 +1,31 @@
+{{ if .Site.Params.photogallery.enable }}
+{{ "<!-- Photogallery Section Start -->" | safeHTML }}
+<section id="gallery" class="gallery">
+    <div class="container">
+        <div class="section-heading">
+                {{ with .Site.Params.photogallery.title }}<h1 class="title wow fadeInDown" data-wow-delay=".3s">{{ . }}</h1>{{ end }}
+                {{ with .Site.Params.photogallery.subtitle }}<p class="wow fadeInDown" data-wow-delay=".5s">{{ . }}</p>{{ end }}
+        </div>
+        <div class="row">
+            {{ range $index, $element := .Site.Data.photogallery.galleryImages }}
+            <div class="col-md-4 col-sm-6">
+                {{ $delay := mul $index 300 }}
+                <figure class="wow fadeInLeft animated portfolio-item animated" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 0ms; -webkit-animation-delay: 0ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                    <div class="img-wrapper">
+                        <img src="{{ .image | absURL }}" class="img-fluid" alt="this is a title">
+                        <div class="overlay">
+                            <div class="buttons">
+                                <a rel="gallery" class="fancybox" href="{{ .image | absURL }}">Images</a>
+                            </div>
+                        </div>
+                    </div>
+                </figure>
+            </div>
+            {{ end }}
+        </div>
+        <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" data-wow-delay=".9s"
+                            href="gallery">View More</a>
+    </div>
+</section>
+{{ "<!-- Photogallery Section End -->" | safeHTML }}
+{{ end }}

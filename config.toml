@@ -77,4 +77,8 @@ theme = "timer-hugo"
         title   = "Proudly Sponsored By"
         subtitle= ""
 
-    
+    # Portfolio Section On Homepage
+    [params.photogallery]
+        enable  = true
+        title   = "GALLERY"
+        subtitle= ""
