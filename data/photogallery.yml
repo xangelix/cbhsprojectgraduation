@@ -1,8 +1,17 @@
 enable  : true
 galleryImages :
-  - image : images/gallery/ComstockPhotography_249_IMG_1881.webp
-  - image : images/gallery/sp2.webp
-  - image : images/gallery/sp3.webp
-  - image : images/gallery/sp4.webp
-  - image : images/gallery/sp5.webp
-  - image : images/gallery/sp6.webp
+- image : images/gallery/featured/13_IMG_2530.JPG.webp
+- image : images/gallery/featured/7_IMG_2523.JPG.webp
+- image : images/gallery/featured/227_IMG_2723.JPG.webp
+- image : images/gallery/featured/20_IMG_2538.JPG.webp
+- image : images/gallery/featured/22_IMG_2540.JPG.webp
+- image : images/gallery/featured/43_IMG_2566.JPG.webp
+- image : images/gallery/featured/69_IMG_1142.JPG.webp
+- image : images/gallery/featured/107_IMG_0188.JPG.webp
+- image : images/gallery/featured/110_IMG_2625.JPG.webp
+- image : images/gallery/featured/113_IMG_2628.JPG.webp
+- image : images/gallery/featured/124_IMG_0201.JPG.webp
+- image : images/gallery/featured/126_IMG_0205.JPG.webp
+- image : images/gallery/featured/194_IMG_2696.JPG.webp
+- image : images/gallery/featured/220_IMG_2718.JPG.webp
+- image : images/gallery/featured/257_IMG_2754.JPG.webp

@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "sponsors" # Used in routes, e.g., /admin/collections/blog
+    label: "Sponsors" # Used in the UI
+    file: "data/gallery.yml" # The path to the file where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Enable", name: "enable", widget: "boolean", default: "True"}
+      - label: "Gallery Images"
+        name: "galleryImages"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "file"}
