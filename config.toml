@@ -9,8 +9,8 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "Senior Info"
-        url     = "senior-info"
+        name    = "Gallery"
+        url     = "photo-gallery"
         weight  = 2
     [[menu.nav]]
         name    = "Fundraising"
