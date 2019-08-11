@@ -8,21 +8,21 @@ author: Admin
 tags: ["fundraising"]
 ---
 
-> Congratulations!
+<strong><center style="size: 3em;">Congratulations!</center></strong>
 
-You’ve been FLOCKED by CBHS Project Graduation!
+<center>You’ve been FLOCKED by CBHS Project Graduation!</center>
 
- We need your support! If you walked outside to a yard infested with flamingos,
+<center>We need your support! If you walked outside to a yard infested with flamingos,</center>
 
-NEVER FEAR, we have a few solutions for you!
+<center>NEVER FEAR, we have a few solutions for you!</center>
 
-## For a $20 donation you can send your flock packing.
+<strong><center>For a $20 donation you can send your flock packing.</center></strong>
 
-## For a $25 donation you can choose whose yard they will infest next!  Flock as many friends as you’d like! 
+<strong><center>For a $25 donation you can choose whose yard they will infest next!  Flock as many friends as you’d like!</center></strong>
 
-## For the low price of $30 you can purchase FLOCKING INSURANCE to guarantee provide protection against any future flamingo infestation!
+<strong><center>For the low price of $30 you can purchase FLOCKING INSURANCE to guarantee provide protection against any future flamingo infestation!</center></strong>
 
-If you choose not to make a donation at this time the flamingos will be removed free of charge by contacting us via the Flamingo Flocking Order below.  Just say "Please remove" along with your address in the comments.
+If you choose not to make a donation at this time the flamingos will be removed free of charge by contacting us via the Flamingo Flocking Order below.  Just say "Please remove" along with your address in the comments.</center>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
     <input type="hidden" name="cmd" value="_donations" />
