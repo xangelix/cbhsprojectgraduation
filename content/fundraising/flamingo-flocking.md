@@ -30,9 +30,9 @@ If you choose not to make a donation at this time the flamingos will be removed 
     <input type="hidden" name="currency_code" value="USD" />
     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
         <select class="form-control" name="amount">
-            <option value="20">$20 - flock packing</option>
-            <option value="25">$25 - infest</option>
-            <option value="30">$30 - insurance</option>
+            <option value="20">$20</option>
+            <option value="25">$25</option>
+            <option value="30">$30</option>
         </select>
     </div>
     <!--<input type="hidden" name="amount" value="20" />-->
