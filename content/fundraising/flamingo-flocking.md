@@ -24,33 +24,18 @@ NEVER FEAR, we have a few solutions for you!
 
 If you choose not to make a donation at this time the flamingos will be removed free of charge by contacting us via the Flamingo Flocking Order below.  Just say "Please remove" along with your address in the comments.
 
-<form id="contact-form" method="#" action="#" role="form">
-
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
+    <input type="hidden" name="cmd" value="_donations" />
+    <input type="hidden" name="business" value="amhughes767@optonline.net" />
+    <input type="hidden" name="currency_code" value="USD" />
     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
-        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+        <select class="form-control" name="amount">
+            <option value="20">$20 - flock packing</option>
+            <option value="25">$25 - infest</option>
+            <option value="30">$30 - insurance</option>
+        </select>
     </div>
-
-    <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
-        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
-    </div>
-
-    <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
-        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
-    </div>
-
-    <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
-        <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
-    </div>
-
-    <div id="success" class="success">
-        Thank you. The Mailman is on His Way :)
-    </div>
-
-    <div id="error" class="error">
-        Sorry, don't know what happened. Try later :(
-    </div>
-
-    <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
-        <button type="submit" id="contact-submit" class="btn btn-default btn-send hvr-bounce-to-right" value="Send Message">Send Message</button>
-    </div>
+    <!--<input type="hidden" name="amount" value="20" />-->
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
