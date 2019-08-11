@@ -1,7 +1,8 @@
 enable  : true
 galleryImages :
+- image : images/gallery/full/14_IMG_2531.JPG.webp
 - image : images/gallery/featured/13_IMG_2530.JPG.webp
-- image : images/gallery/featured/7_IMG_2523.JPG.webp
+#- image : images/gallery/featured/7_IMG_2523.JPG.webp
 - image : images/gallery/featured/227_IMG_2723.JPG.webp
 - image : images/gallery/featured/20_IMG_2538.JPG.webp
 - image : images/gallery/featured/22_IMG_2540.JPG.webp
