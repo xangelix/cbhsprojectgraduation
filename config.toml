@@ -9,20 +9,20 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "Gallery"
-        url     = "photo-gallery"
-        weight  = 2
-    [[menu.nav]]
         name    = "Fundraising"
         url     = "fundraising"
-        weight  = 3
+        weight  = 2
     [[menu.nav]]
         name    = "Lucky Leprechaun 5K"
         url     = "ll5k"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Calendar"
+        url     = "calendar"
         weight  = 4
     [[menu.nav]]
-        name    = "Events"
-        url     = "events"
+        name    = "Gallery"
+        url     = "photo-gallery"
         weight  = 5
     [[menu.nav]]
         name    = "Contact"
