@@ -32,7 +32,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Home"
-    logo = "images/logo.webp"
+    logo = "images/logo1.png"
     dateFormat = "6 January 2006"
     # Meta data
     description = "CBHS Project Graduation"
@@ -43,7 +43,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/slider.webp"
+        bgImage = "images/graduation.jpg"
         heading = "CBHS Project Graduation"
         description = "PROJECT GRADUATION HAS A SIMPLE GOAL. WE WANT TO KEEP OUR SENIORS SAFE."
         btn     = true
