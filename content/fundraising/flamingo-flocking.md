@@ -22,8 +22,10 @@ tags: ["fundraising"]
 
 <strong><center>For the low price of $30 you can purchase FLOCKING INSURANCE to guarantee provide protection against any future flamingo infestation!</center></strong>
 
-If you choose not to make a donation at this time the flamingos will be removed free of charge by contacting us via the Flamingo Flocking Order below.  Just say "Please remove" along with your address in the comments.</center>
+<hr>
 
+> Please supply your target address (your own or someone else's) as the PayPal shipping address.
+<!--
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
     <input type="hidden" name="cmd" value="_donations" />
     <input type="hidden" name="business" value="amhughes767@optonline.net" />
@@ -36,10 +38,10 @@ If you choose not to make a donation at this time the flamingos will be removed 
         </select>
     </div>
     <!--<input type="hidden" name="amount" value="20" />-->
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    <!--<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
     <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
+</form>-->
+<!--
 <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="DW4X9DQFJXDEJ">
@@ -55,4 +57,24 @@ If you choose not to make a donation at this time the flamingos will be removed 
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+-->
 
+<form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="9V79NP2CU3ECE">
+<table>
+<tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select class="form-control" name="os0">
+	<option value="Send your flock packing">Send your flock packing $20.00 USD</option>
+	<option value="Choose who to infest next">Choose who to infest next $25.00 USD</option>
+	<option value="Flocking Insurance">Flocking Insurance $30.00 USD</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Your Phone Number">Your Phone Number</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+</table><br/>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<br/>
+If you prefer to send a check, please make it out to CBHS Project Graduation and mail it to:
+
+P.O. Box 321577, Cocoa Beach, FL 32931
