@@ -1,6 +1,6 @@
 ---
 title: "Flamingo Flocking"
-date: 2019-08-06T18:30:00-05:00
+date: 2019-07-06T18:30:00-05:00
 description : "Flamingo Flocking"
 type: post
 image: images/ff.webp
@@ -30,7 +30,6 @@ If you choose not to make a donation at this time the flamingos will be removed 
     <input type="hidden" name="currency_code" value="USD" />
     <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
         <select class="form-control" name="amount">
-            <option value="5">$5</option>
             <option value="20">$20</option>
             <option value="25">$25</option>
             <option value="30">$30</option>
@@ -40,3 +39,20 @@ If you choose not to make a donation at this time the flamingos will be removed 
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
     <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+<form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="DW4X9DQFJXDEJ">
+<table>
+<tr><td><input type="hidden" name="on0" value="Options">Options</td></tr><tr><td><select name="os0">
+	<option value="Send your flock packing">Send your flock packing $20.00 USD</option>
+	<option value="Choose who to infest next">Choose who to infest next $25.00 USD</option>
+	<option value="Flocking Insurance">Flocking Insurance $30.00 USD</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Your name or target's name">Your name or target's name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+

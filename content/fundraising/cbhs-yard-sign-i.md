@@ -1,6 +1,6 @@
 ---
 title: "CBHS Yard Sign"
-date: 2019-08-06T18:30:00-05:00
+date: 2019-10-06T18:30:00-05:00
 description : "Our third meeting of the school year."
 type: post
 image: images/cbhs-yard-sign.webp

@@ -1,6 +1,6 @@
 ---
 title: "Bingo Sponsorship"
-date: 2019-08-06T18:30:00-05:00
+date: 2019-11-06T18:30:00-05:00
 description : "The Bingo Sponsorship"
 type: post
 image: images/bingo.webp
