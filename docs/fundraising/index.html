@@ -33,6 +33,46 @@
     <!-- template main css file -->
     
     <link rel="stylesheet" href="https://cbhspg.org/css/style.min.css" integrity="" media="screen">
+	
+	<style>
+		* {
+		  box-sizing: border-box;
+		}
+
+		ul.close-ul {
+		  list-style-type: none;
+		  padding: 0;
+		  margin: 0;
+		}
+
+		ul.close-ul li.close-li {
+		  border: 1px solid #ddd;
+		  margin-top: -1px;  
+		  background-color: #d81b60;
+		  padding: 12px;
+		  text-decoration: none;
+		  font-size: 18px;
+		  color: white;
+		  display: block;
+		  position: relative;
+		}
+
+		ul.close-ul li:hover {
+		  background-color: #ec407a;
+		}
+
+		.close {
+		  cursor: pointer;
+		  position: absolute;
+		  top: 50%;
+		  right: 0%;
+		  padding: 12px 16px;
+		  transform: translate(0%, -50%);
+		}
+
+		.close:hover {background: #bbb;}
+		</style>
+
 </head>
 
 <body>
@@ -81,8 +121,21 @@
             </div>
         </div>
     </div>
+	<ul class="close-ul">
+	  <li class="close-li">Flocking Flamingos is currently LIVE!<span class="close">&times;</span></li>
+	</ul>
 </section>
 
+<script>
+var closebtns = document.getElementsByClassName("close");
+var i;
+
+for (i = 0; i < closebtns.length; i++) {
+  closebtns[i].addEventListener("click", function() {
+    this.parentElement.style.display = 'none';
+  });
+}
+</script>
 
 <!-- Global Page Section Start -->
 <section class="global-page-header">
