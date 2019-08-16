@@ -32,7 +32,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Home"
-    logo = "images/logo1.png"
+    logo = "images/logo2.png"
     dateFormat = "6 January 2006"
     # Meta data
     description = "CBHS Project Graduation"
