@@ -24,9 +24,7 @@ tags: ["fundraising"]
 
 <hr>
 
-> Please donate the amount, then fill out the form below.
-
-<mark><a href="/donate" class="btn btn-default btn-contact" style="visibility: visible; color: gblue;">Click HERE to donate</a></mark>
+> Please fill out the form below, then donate by the PayPal Giving Fund.
 
 <!--
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
@@ -78,6 +76,9 @@ tags: ["fundraising"]
 <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>-->
 <form action="https://formspree.io/cocoabeachprojgrad@gmail.com" method="POST">
+  <input type="hidden" name="_subject" value="New Flocking Flamingos submission!" />
+  <!--<input type="hidden" name="_next" value="https://cbhspg.org/donate"/>-->
+  <!--<input type="hidden" name="_cc" value="another@email.com" />-->
   <input class="form-control" type="text" name="name" placeholder="Your first and last name"><br/>
   <input class="form-control" type="email" name="_replyto" placeholder="Your email address"><br/>
   <input class="form-control" type="text" name="phone" placeholder="Your phone number"><br/>
@@ -87,6 +88,9 @@ tags: ["fundraising"]
   <input class="form-control" type="submit" value="Send">
 </form>
 <br/>
+
+<mark><a href="/donate" class="btn btn-default btn-contact" style="visibility: visible; color: gblue;">Click HERE to donate</a></mark>
+
 If you prefer to send a check, please make it out to CBHS Project Graduation and mail it to:
 
 P.O. Box 321577, Cocoa Beach, FL 32931
