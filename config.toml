@@ -66,10 +66,10 @@ theme = "timer-hugo"
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "QUESTIONS?"
-        content = "Contact us below."
-        btnText = "Contact"
-        btnURL  = "/contact"
+        title   = "Just want to donate?"
+        content = "Click below."
+        btnText = "Donate"
+        btnURL  = "/donate"
 
     # Portfolio Section On Homepage
     [params.portfolio]

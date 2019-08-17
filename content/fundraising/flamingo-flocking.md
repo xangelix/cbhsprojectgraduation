@@ -24,7 +24,10 @@ tags: ["fundraising"]
 
 <hr>
 
-> Please supply your target address (your own or someone else's) as the PayPal shipping address.
+> Please donate the amount, then fill out the form below.
+
+<mark><a href="/donate" class="btn btn-default btn-contact" style="visibility: visible; color: gblue;">Click HERE to donate</a></mark>
+
 <!--
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
     <input type="hidden" name="cmd" value="_donations" />
@@ -37,7 +40,7 @@ tags: ["fundraising"]
             <option value="30">$30</option>
         </select>
     </div>
-    <!--<input type="hidden" name="amount" value="20" />-->
+    <!--<input type="hidden" name="amount" value="20" />--
     <!--<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
     <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>-->
@@ -58,7 +61,7 @@ tags: ["fundraising"]
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 -->
-
+<!--
 <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="9V79NP2CU3ECE">
@@ -73,6 +76,15 @@ tags: ["fundraising"]
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>-->
+<form action="https://formspree.io/cocoabeachprojgrad@gmail.com" method="POST">
+  <input class="form-control" type="text" name="name" placeholder="Your first and last name"><br/>
+  <input class="form-control" type="email" name="_replyto" placeholder="Your email address"><br/>
+  <input class="form-control" type="text" name="phone" placeholder="Your phone number"><br/>
+  <input class="form-control" type="text" name="amount" placeholder="Your donation amount"><br/>
+  <input class="form-control" type="text" name="nameFlocked" placeholder="Name of family to be Flocked"><br/>
+  <textarea class="form-control" rows="5" name="address" placeholder="Address of the family to be Flocked" required=""></textarea><br/><br/>
+  <input class="form-control" type="submit" value="Send">
 </form>
 <br/>
 If you prefer to send a check, please make it out to CBHS Project Graduation and mail it to:
