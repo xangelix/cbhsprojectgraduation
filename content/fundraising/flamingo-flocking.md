@@ -89,7 +89,7 @@ tags: ["fundraising"]
 </form>
 <br/>
 
-<mark><a href="/donate" class="btn btn-default btn-contact" style="visibility: visible; color: gblue;">Click HERE to donate</a></mark>
+<mark><a href="/donate" class="btn btn-default btn-contact" style="visibility: visible; color: gblue;">Click here to pay for your flock!</a></mark>
 
 If you prefer to send a check, please make it out to CBHS Project Graduation and mail it to:
 

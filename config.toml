@@ -17,8 +17,8 @@ theme = "timer-hugo"
         url     = "ll5k"
         weight  = 3
     [[menu.nav]]
-        name    = "Calendar"
-        url     = "calendar"
+        name    = "Flocking Flamingos"
+        url     = "ff"
         weight  = 4
     [[menu.nav]]
         name    = "Gallery"
