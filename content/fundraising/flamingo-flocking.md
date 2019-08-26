@@ -24,7 +24,7 @@ tags: ["fundraising"]
 
 <hr>
 
-> Please fill out the form below, then donate by the PayPal Giving Fund link to follow.
+> Please fill out the form below, then donate by the link highlighted in yellow to follow.
 
 <!--
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
@@ -89,7 +89,7 @@ tags: ["fundraising"]
 </form>
 <br/>
 
-<mark><a href="/donate" class="btn btn-default btn-contact" style="visibility: visible; color: gblue;">Click here to pay for your flock!</a></mark>
+<mark style="background-color: #e9ff00;"><a href="/donate" class="btn btn-default btn-contact form-control" style="visibility: visible; color: gblue;">Click here to pay for your flock!</a></mark>
 
 If you prefer to send a check, please make it out to CBHS Project Graduation and mail it to:
 
