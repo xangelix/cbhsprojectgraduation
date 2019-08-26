@@ -176,36 +176,17 @@ for (i = 0; i < closebtns.length; i++) {
                     <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">Fill out the form below and expect a reply soon.
 </p>
                     <div class="contact-form">
-                        <form id="contact-form" method="#" action="#" role="form">
-
-                            <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
-                                <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
-                            </div>
-
-                            <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
-                                <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
-                            </div>
-
-                            <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
-                                <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
-                            </div>
-
-                            <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.2s">
-                                <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
-                            </div>
-
-                            <div id="success" class="success">
-                                Thank you. The Mailman is on His Way :)
-                            </div>
-
-                            <div id="error" class="error">
-                                Sorry, don't know what happened. Try later :(
-                            </div>
-
-                            <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
-                                <button type="submit" id="contact-submit" class="btn btn-default btn-send hvr-bounce-to-right" value="Send Message">Send Message</button>
-                            </div>
-                        </form>
+						<form action="https://formspree.io/cocoabeachprojgrad@gmail.com" method="POST">
+						  <input type="hidden" name="_subject" value="New Contact Form submission!" />
+						  
+						  
+						  <input class="form-control" type="text" name="name" placeholder="Your first and last name"><br/>
+						  <input class="form-control" type="email" name="_replyto" placeholder="Your email address"><br/>
+						  <input class="form-control" type="text" name="subject" placeholder="Subject"><br/>
+						  <textarea class="form-control" rows="5" name="message" placeholder="Message" required=""></textarea><br/><br/>
+						  <input class="form-control" type="submit" value="Send">
+						</form>
+						<br/>
                     </div>
                 </div>
             </div>
