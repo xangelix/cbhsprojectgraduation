@@ -24,7 +24,7 @@ tags: ["fundraising"]
 
 <hr>
 
-> Please fill out the form below, then donate by the PayPal Giving Fund.
+> Please fill out the form below, then donate by the PayPal Giving Fund link to follow.
 
 <!--
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
