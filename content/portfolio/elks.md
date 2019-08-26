@@ -11,7 +11,7 @@ client: The Cocoa Beach Elks Lodge
 submitDate: June 6, 2019
 location: 175 North Brevard Ave, Cocoa Beach, Florida
 ---
-## The Cocoa Beach Elks Lodge is now sponsoring us!
+## The Cocoa Beach Elks Lodge is a sponsor of Project Graduation!
 
 Thank you to the Cocoa Beach Elks lodge for sponsoring Project Graduation!
 
