@@ -3,7 +3,7 @@ title: "Flamingo Flocking"
 date: 2019-07-06T18:30:00-05:00
 description : "Flamingo Flocking"
 type: post
-image: images/ff.png
+image: images/ff2.png
 author: Admin
 tags: ["fundraising"]
 ---
