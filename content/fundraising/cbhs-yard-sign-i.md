@@ -1,14 +1,14 @@
 ---
 title: "CBHS Yard Sign"
-date: 2019-10-06T18:30:00-05:00
+date: 2019-08-26T18:30:00-05:00
 description : "Our third meeting of the school year."
 type: post
-image: images/cbhs-yard-sign.webp
+image: images/cbhs-yard-sign.jpg
 author: Admin
 tags: ["fundraising"]
 ---
 
-> Proud of your Cocoa Beach Senior? Let them know, order a yard sign!!!
+## Proud of your Cocoa Beach Senior? Let them know, order a yard sign!!!
 
 Orders and payment are now being taken for Senior Yard Signs.
 
@@ -20,7 +20,7 @@ Large signs personalized are $40, not personalized are $38.
 
 Weather resistant sign measures 24” wide x 18” high
 
-Will be delivered to student at school in April 2019
+Will be delivered to student at school in April 2020
 
 Signs will be ordered as needed and will be available for purchase through the month of April.  They will be delivered to the school and parents/students notified via email. If you have any questions about ordering, please contact Renee' Crutchfield, Reneefc0420@gmail.com
 
