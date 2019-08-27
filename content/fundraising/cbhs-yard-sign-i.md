@@ -28,7 +28,7 @@ Signs will be ordered as needed and will be available for purchase through the m
 
 ## Order Form
 
-> Please fill out the form below, then donate by the link highlighted in yellow to follow.
+> Please supply your applicable information in the form below then click "Send", once your form has been submitted return here to click on the button highlighted in yellow to Pay for Your Sign.
 
 <form action="https://formspree.io/cocoabeachprojgrad@gmail.com" method="POST">
   <input type="hidden" name="_subject" value="New CBHS Senior Yard Sign submission!" />
@@ -42,4 +42,4 @@ Signs will be ordered as needed and will be available for purchase through the m
 </form>
 <br/>
 
-<mark style="background-color: #e9ff00;"><a href="/donate" class="btn btn-default btn-contact form-control" style="visibility: visible; color: gblue;">Click here to pay for your sign!</a></mark>
+<mark style="background-color: #e9ff00;"><a href="/donate" class="btn btn-default btn-contact form-control" style="visibility: visible; color: gblue;">Click here to Pay for Your Sign!</a></mark>

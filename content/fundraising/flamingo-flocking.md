@@ -12,19 +12,44 @@ tags: ["fundraising"]
 
 <center>You’ve been FLOCKED by CBHS Project Graduation!</center>
 
-<center>We need your support! If you walked outside to a yard infested with flamingos,</center>
+<center>If you walked outside to a yard infested with flamingos,</center>
 
 <center>NEVER FEAR, we have a few solutions for you!</center>
 
 <strong><center>For a $20 donation you can send your flock packing.</center></strong>
 
-<strong><center>For a $25 donation you can choose whose yard they will infest next!  Flock as many friends as you’d like!</center></strong>
+<strong><center>For a $25 donation you can choose whose yard the flock will infest next!</center></strong>
 
-<strong><center>For the low price of $30 you can purchase FLOCKING INSURANCE to guarantee provide protection against any future flamingo infestation!</center></strong>
+<strong><center>For just $30 you can purchase FLOCKING INSURANCE to guarantee provide protection against any future flamingo infestation!</center></strong>
+
+<br/>
+
+<center>*Do nothing and the flock will migrate after 48 hours.*</center>
+
+<center>*Scroll down and fill out the Flamingo Flocking Order. Then click on the button to Pay for Your Flock.*</center>
+
+---
+
+<strong><center>*OR*</center></strong>
+
+---
+
+<strong><center>Flock Your Neighbor!</center></strong>
+
+
+<center>Make a donation and the flock will migrate to the yard of your choice. </center>
+
+<center>You didn't wake up to a pink yard but would like your friends or neighbors to do so!</center>
+
+<strong><center>For a $25 donation you can send the flock to roost on your friends or neighbors yard.</center></strong>
+
+<br/>
+
+<center>*Scroll down and fill out the Flamingo Flocking Order. Then click on the button to Pay for Your Flock.*</center>
 
 <hr>
 
-> Please fill out the form below, then donate by the link highlighted in yellow to follow.
+> Please supply your applicable information in the form below then click "Send", once your form has been submitted return here to click on the button highlighted in yellow to Pay for Your Flock.
 
 <!--
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" role="form">
@@ -89,7 +114,7 @@ tags: ["fundraising"]
 </form>
 <br/>
 
-<mark style="background-color: #e9ff00;"><a href="/donate" class="btn btn-default btn-contact form-control" style="visibility: visible; color: gblue;">Click here to pay for your flock!</a></mark>
+<mark style="background-color: #e9ff00;"><a href="/donate" class="btn btn-default btn-contact form-control" style="visibility: visible; color: gblue;">Click here to Pay for Your Flock!</a></mark>
 
 If you prefer to send a check, please make it out to CBHS Project Graduation and mail it to:
 
